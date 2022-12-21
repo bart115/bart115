@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bart115 💾
 - 👀 I’m interested in sports and how companies are managed 
 - 🌱 I’m currently learning software engineering at University of Minho , Portugal
-- 💞️ I’m looking to collaborate on project that could be available somewhere 
+- 💞️ I’m looking to collaborate on a project that could be available somewhere 
 - 📫 How to reach me by my email : goncalorochafreitas10@gmail.com
 
 <!---
