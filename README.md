@@ -1,6 +1,6 @@
 
 # Olá! Eu sou o Gonçalo Freitas 🤙🏾
-### Currently studying software engeneering at UNiversity of Minho
+### Currently studying software engeneering at University of Minho
 ## Second year 💻 🖱️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsalo_/)
