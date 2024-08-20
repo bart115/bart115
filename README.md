@@ -1,5 +1,5 @@
 
-Gonçalo Freitas (bart) 🤙🏾
+## Gonçalo Freitas (bart) 🤙🏾
 ### Currently studying software engeneering at University of Minho
 ## Second year 💻 🖱️ 💾
 
