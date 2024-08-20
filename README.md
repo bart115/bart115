@@ -1,5 +1,5 @@
 
-# Olá! Eu sou o Gonçalo Freitas 🤙🏾
+Gonçalo Freitas (bart) 🤙🏾
 ### Currently studying software engeneering at University of Minho
 ## Second year 💻 🖱️ 💾
 
