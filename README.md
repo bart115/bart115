@@ -1,7 +1,7 @@
 
 ## Gonçalo Freitass
-### Currently studying software engeneering at University of Minho
-## Third year 💻 🖱️ 💾
+### Software engineer enthusiast
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsalo_/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/bart115)
@@ -20,5 +20,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ##
-#### "Tudo vale a pena quando a alma não é pequena"
 
