@@ -1,5 +1,5 @@
 
-## Gonçalo Freitass
+## Gonçalo Freitas
 ### Software engineer enthusiast
 
 
