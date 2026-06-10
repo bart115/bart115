@@ -1,23 +1,33 @@
+## Hi, I'm Gonçalo 👋
 
-## Gonçalo Freitas
-### Software engineer enthusiast
+Full-stack developer based in Porto, Portugal. I build web applications with Vue.js, Python, and Node.js — currently finishing a software engineering internship and open to **fully remote roles with international companies**.
 
+-  Currently working on: Support Analyst
+-  Open to: Remote positions in Europe and worldwide
+-  Stack: Vue.js · JavaScript/TypeScript · Python · Node.js · SQL Server · MongoDB · Docker
+-  Reach me: freitasgoncalo1912@gmail.com · [(https://www.linkedin.com/in/freitas115/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsalo_/)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/bart115)
-##
-### Tech that I use:
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-##
+---
 
+### 🚀 Featured projects
+
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| [Production Line Manager](https://github.com/bart115/LI4_final/) | Web app for managing and monitoring manufacturing production lines | Vue.js · Python · SQL Server | [Live demo](https://your-deploy-url.com) not yet|
+
+---
+
+### 🛠 Tech stack
+
+**Frontend** · Vue.js · JavaScript · TypeScript · HTML/CSS · Pug
+
+**Backend** · Python · Node.js · Java · REST APIs
+
+**Data** · SQL Server · MongoDB · Oracle
+
+**Tools** · Docker · Git · Jira · Figma
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freitas115/)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/bart115)
