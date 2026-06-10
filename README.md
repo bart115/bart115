@@ -5,7 +5,7 @@ Full-stack developer based in Porto, Portugal. I build web applications with Vue
 -  Currently working: Support Analyst at Itim
 -  Open to: Remote positions in Europe and worldwide
 -  Stack: Vue.js · JavaScript/TypeScript · Python · Node.js · SQL Server · MongoDB · Docker
--  Reach me: freitasgoncalo1912@gmail.com · [(https://www.linkedin.com/in/freitas115/)
+-  Reach me: freitasgoncalo1912@gmail.com · https://www.linkedin.com/in/freitas115/
 
 ---
 
