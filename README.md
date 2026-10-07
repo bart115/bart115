@@ -1,6 +1,6 @@
 ## Hi, I'm Goncalo Freitas
 
-Full-stack developer based in Porto, Portugal, currently building production-oriented AI and web applications with Python, Vue.js, Node.js, and modern LLM tooling. I am finishing a software engineering internship, working as a Support Analyst at Itim, and looking for fully remote software engineering, AI/ML engineering, and LLM engineering roles with international teams.
+Full-stack developer based in Guimarães and Braga, Portugal, currently building production-oriented AI and web applications with Python, Vue.js, Node.js, and modern LLM tooling. I am finishing a software engineering internship, working as a Support Analyst at Itim, and looking for fully remote software engineering, AI/ML engineering, and LLM engineering roles with international teams.
 
 - Currently working: Support Analyst at Itim
 - Open to: Fully remote roles in Europe and worldwide
